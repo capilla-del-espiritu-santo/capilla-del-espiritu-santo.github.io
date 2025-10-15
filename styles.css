@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f5f5f5;
+  color: #222;
+  text-align: center;
+}
+
+header {
+  background-color: maroon;
+  color: white;
+  padding: 20px 0;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 0;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #ffd700;
+}
+
+section {
+  padding: 40px 20px;
+}
+
+footer {
+  background-color: #222;
+  color: #aaa;
+  padding: 15px;
+  font-size: 14px;
+}
+
+body {
+  background-color: #e8d5b7;
+  color: #2b2b2b;
+}
+
+p{
+  font-size: larger;
+}
+
+li{
+  font-size: larger;
+}
+
+.negrito {
+  max-width: 805px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  border: 2px solid rgba(13, 13, 13, 0.8);
+  border-radius: 15px;
+  background: transparent;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(13, 13, 13, 0.8);
+}
+
+.negrito1 {
+  max-width: 555px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  border: 2px solid rgba(13, 13, 13, 0.8);
+  border-radius: 15px;
+  background: transparent;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(13, 13, 13, 0.8);
+}
+
+.negritoi {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  border: 2px solid rgba(13, 13, 13, 0.8);
+  border-radius: 15px;
+  background: transparent;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(13, 13, 13, 0.8);
+}
+
+.galery {
+  max-width: 1100px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  border: 2px solid rgba(13, 13, 13, 0.8);
+  border-radius: 15px;
+  background: transparent;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(13, 13, 13, 0.8);
+}
+
+.direccion {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 25px 30px;
+  border: 2px solid rgba(13, 13, 13, 0.8);
+  border-radius: 15px;
+  background: transparent;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(13, 13, 13, 0.8);
+}
+
+.chingañera{
+display: inline-block; 
+background-color: #ceb998;
+  color: black;
+  padding: 10px 20px; 
+  border-radius: 10px; 
+  box-shadow: 0 3px 10px rgba(0,0,0,0.3); 
+  border: 5px solid #e8d5b7;
+}
+
+#horarios ul {
+  list-style: none;
+  padding-left: 0; 
+  margin: 0; 
+}
+
+footer a {
+  color: #d8c7a1; 
+  text-decoration: none; 
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+footer a:hover {
+  color: #fff5e1;
+}
